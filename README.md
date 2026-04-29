@@ -44,7 +44,7 @@ Use este guia para um diagnóstico visual imediato no campo:
 | **Urtiga** | Rico em Nitrogênio, mas pobre em Cobre | Equilibrar micronutrientes. |
 | **Capim-carrapicho** | Compactado e sofrendo erosão superficial | Recuperar a cobertura vegetal e evitar solo exposto. |
 
-##5. Ferramentas de Aprendizagem Criadas
+## 5. Ferramentas de Aprendizagem Criadas
 Relatório Comparativo: Análise profunda entre indicadores de solos férteis e degradados.
 Plantas Quiz: Teste de conhecimentos para fixação das espécies e suas funções.
 Glossário: Definições de termos como ecótipos, bioporos e filtros ambientais.
